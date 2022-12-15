@@ -3,7 +3,7 @@
 
 module.exports = {
     RecordName: 'example.dev',
-    region: 'us-east-1',
+    region: 'XXXXXXXXX',
     HostedZoneId: 'XXXXXXXXXXXXXX',
     accessKeyId: 'XXXXXXXXXXXXXXXXXXX',
     secretAccessKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
